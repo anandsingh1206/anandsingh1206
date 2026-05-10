@@ -22,6 +22,8 @@ Currently pursuing my M.Tech in Microelectronics and VLSI Design at IIEST Shibpu
 | **[UART Transceiver](https://github.com/anandsingh1206/uart-transceiver-verilog)** | A full-duplex serial communication module with a parameterized baud rate generator and self-checking testbench. | ✅ *Completed* |
 | **[Digital Logic Vault](#)** | A verified collection of fundamental VLSI building blocks (ALUs, Shift Registers, Multiplexers) with exhaustive testbenches. | ✅ *Completed* |
 
+## Simulation Waveform
+![Waveform](./sim/waveform.png)
 ### 📫 Let's Connect
 Whether it's discussing RISC-V architecture, RTL debugging, or internship opportunities in the digital design space, my inbox is always open.
 
