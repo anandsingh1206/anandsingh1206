@@ -18,7 +18,7 @@ Currently pursuing my M.Tech in Microelectronics and VLSI Design at IIEST Shibpu
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| **[5-Stage Pipelined RISC-V Core](#)** | A 32-bit pipelined processor based on the RV32I instruction set, featuring hazard detection and forwarding logic. | 🚧 *In Progress* |
+| **[5-Stage Pipelined RISC-V Core](https://github.com/anandsingh1206/verilog-digital-design-labs)** | A 32-bit pipelined processor based on the RV32I instruction set, featuring hazard detection and forwarding logic. | 🚧 *In Progress* |
 | **[UART Transceiver](https://github.com/anandsingh1206/uart-transceiver-verilog)** | A full-duplex serial communication module with a parameterized baud rate generator and self-checking testbench. | ✅ *Completed* |
 | **[Digital Logic Vault](#)** | A verified collection of fundamental VLSI building blocks (ALUs, Shift Registers, Multiplexers) with exhaustive testbenches. | ✅ *Completed* |
 
