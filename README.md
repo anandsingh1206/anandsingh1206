@@ -23,7 +23,7 @@ Currently pursuing my M.Tech in Microelectronics and VLSI Design at IIEST Shibpu
 | **[Digital Logic Vault](#)** | A verified collection of fundamental VLSI building blocks (ALUs, Shift Registers, Multiplexers) with exhaustive testbenches. | ✅ *Completed* |
 
 ## Simulation Waveform
-![Waveform](./sim/waveform.png)
+![Waveform](./uart-transceiver-verilog/sim/waveform.png)
 ### 📫 Let's Connect
 Whether it's discussing RISC-V architecture, RTL debugging, or internship opportunities in the digital design space, my inbox is always open.
 
