@@ -31,11 +31,3 @@ Whether it's discussing RISC-V architecture, RTL debugging, or internship opport
 ---
 *"Simulate early, simulate often."* ```
 
-### Why this works:
-* **The Hook:** The opening line establishes a philosophy (clean architecture), not just a list of skills. It sounds human.
-* **The "What I'm doing" section:** It proves you are active right now. Mentioning the 3-block Moore FSM and the RV32I pipeline drops heavy industry keywords naturally into conversation.
-* **The Table:** Tables look incredibly clean on GitHub and give recruiters a 5-second overview of your best work. 
-
-To make those project links in the table work, just replace the `#` with the actual URL to your specific repository once you upload your code. 
-
-Do you want to add some dynamic GitHub stat badges to the top (like those little shields that show your top languages), or do you prefer to keep it text-focused and minimalist?
